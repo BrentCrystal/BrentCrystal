@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Brent Crystal
+#### Data Design and Analysis
+![Data Design and Analysis](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Brent from New Hampshire, a Business Analyst at TURBOCAM International and self taught C# developer.  
-My passion is learning computer science and working with people to streamline repetitive tasks and improve business processes.  
-Some technologies I enjoy working with include C#, SQL, Epicor ERP, Power Query and Power Pivot.
+I'm Brent from New Hampshire, a Business Analyst at TURBOCAM International and self taught C# developer.
+My passion is learning computer science and working with people to streamline repetitive tasks and improve business processes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentcrystal)](https://github.com/anuraghazra/github-readme-stats)
+Skills: C#/ SQL / HTML / CSS
 
+- 🔭 I’m currently working on this page. 
 

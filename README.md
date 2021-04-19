@@ -2,7 +2,7 @@
 
 # Brent Crystal
 I'm Brent from New Hampshire, a Business Analyst at TURBOCAM International and self taught C# developer.  
-My passion is learning computer science and working with people to streamline repetitive tasks and improve business processes.
+My passion is learning computer science and collaborating with people to streamline repetetive tasks and improve business processes.
 
 ## Skills and Experience
 * 💻 C#, SQL, Power Query, Power Pivot

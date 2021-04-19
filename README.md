@@ -7,6 +7,10 @@ My passion is learning computer science and collaborating with people to streaml
 ## Skills and Experience
 * 💻 C#, SQL, Power Query, Power Pivot
 
+## Examples of What I've Learned
+### Foundations of C#
+<img src="https://media3.giphy.com/media/l3vQYe7l1TInypnYA/200w.webp?cid=ecf05e47s5rfzs7coyt45nt3480nfctcrwb356ler2u4m23w&rid=200w.webp&ct=g" width="256"/>
+
 - 🔭 I’m currently working on this page. 
 
 

@@ -8,6 +8,7 @@ My passion is learning computer science and collaborating with people to streaml
 * 💻 C#, SQL, Power Query, Power Pivot
 
 ## Examples of Work
+<img src = "https://media1.giphy.com/media/jTfJSeTkaBW5erPRDI/200w.webp?cid=ecf05e47hx57ovmu5oclknyn5c85id72qukds8fgbadqzmon&rid=200w.webp&ct=g" width= "256" />
 
 - 🔭 I’m currently working on this page. 
 

@@ -1,4 +1,4 @@
-<img src = "https://images.unsplash.com/photo-1594477898765-b9ad43ad9cfc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fGNvbGxhYm9yYXRpb258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width = "450" height="275"/><img src = "https://images.unsplash.com/photo-1573568179912-43a02f928777?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBtb3VudGFpbnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width= "450" height="275"/>
+<img src = "https://images.unsplash.com/photo-1594477898765-b9ad43ad9cfc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fGNvbGxhYm9yYXRpb258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"/>
 
 # Brent Crystal
 I'm Brent from New Hampshire, a Business Analyst at TURBOCAM International and self taught C# developer.  

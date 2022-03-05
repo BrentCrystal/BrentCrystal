@@ -14,6 +14,8 @@ My passion is learning computer science and collaborating with people to streaml
 <img src ="https://giphy.com/gifs/lego-disney-xUA7aKB04Jeor38rVS" width= "256"/></a>
 
 
+
+
 ## What I'm Learning
 * 💻 ASP.NET Core
 

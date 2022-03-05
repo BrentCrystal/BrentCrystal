@@ -26,5 +26,5 @@ div.linkedinLogo:hover{
 }
 
 <div class "linkedinLogo">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brent-crystal-2gb3tg317/)  
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/brent-crystal-2gb3tg317/) 
 </div>

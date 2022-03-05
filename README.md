@@ -18,5 +18,5 @@ My passion is learning computer science and collaborating with people to optimiz
 
 - 🔭 I’m currently working on this page. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' opacity: 1>](https://www.linkedin.com/in/brent-crystal-2gb3tg317/) 
+[<img src='https://th.bing.com/th/id/OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7' alt='linkedin' height='40'>](https://www.linkedin.com/in/brent-crystal-2gb3tg317/) 
 

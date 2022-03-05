@@ -15,6 +15,12 @@ My passion is learning computer science and collaborating with people to streaml
 
 
 
+
+
+
+
+
+
 ## What I'm Learning
 * 💻 ASP.NET Core
 

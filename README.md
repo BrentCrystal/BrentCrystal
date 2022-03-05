@@ -4,7 +4,7 @@ I'm Brent from New Hampshire, a Business Systems Developer at TURBOCAM Internati
 My passion is learning computer science and collaborating with people to streamline repetitive tasks and optimize business processes.
 
 ## Skills and Experience
-* 💻 C#, SQL, SSRS, Power Query, Power Pivot
+* 💻 C#, SQL, SSRS, EPICOR ERP, Power BI
 
 ## Examples of Work
 <a href="https://github.com/BrentCrystal/PerformanceEvaluationDemo.git">

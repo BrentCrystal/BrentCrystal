@@ -1,7 +1,7 @@
 ![](GitHubProfile.png)
 # Brent Crystal
 I'm Brent from New Hampshire, a Business Systems Developer at TURBOCAM International.  
-My passion is learning computer science and collaborating with people to streamline repetitive tasks and optimize business processes.
+My passion is learning computer science and collaborating with people to optimize business processes.
 
 ## Skills and Experience
 * 💻 C#, SQL, SSRS, EPICOR ERP, Power BI

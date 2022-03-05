@@ -1,10 +1,10 @@
 ![](GitHubProfile.png)
 # Brent Crystal
-I'm Brent from New Hampshire, a Business Analyst at TURBOCAM International and self taught C# developer.  
-My passion is learning computer science and collaborating with people to streamline repetitive tasks and improve business processes.
+I'm Brent from New Hampshire, a Business Systems Developer at TURBOCAM International.  
+My passion is learning computer science and collaborating with people to streamline repetitive tasks and optimize business processes.
 
 ## Skills and Experience
-* 💻 C#, SQL, Power Query, Power Pivot
+* 💻 C#, SQL, SSRS, Power Query, Power Pivot
 
 ## Examples of Work
 <a href="https://github.com/BrentCrystal/PerformanceEvaluationDemo.git">
